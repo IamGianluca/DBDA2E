@@ -1,10 +1,10 @@
 # Doing Bayesian Data Analysis (by John K. Kruschke)
 
-This repository contains Stan translations of the models in the book Doing Bayesian Data Analysis (2014) by John Kruschke.
+This repository contains Stan translations for the models included in the book: Kruschke, J. K. (2015). Doing Bayesian data analysis, second edition: A tutorial with R, JAGS, and Stan. Waltham, MA: Academic Press / Elsevier.
 
-The original JAGS code and data files are available at the [book's website](https://sites.google.com/site/doingbayesiandataanalysis/).
+The original JAGS code and datasets are available at the [book's website](https://sites.google.com/site/doingbayesiandataanalysis/).
 
-Stan translations were done by [Gianluca Rossi](https://github.com/IamGianluca). I want to thank John K. Kruschke for permitting to publish the Stan translated models and Bob Carpenter for his envaluable help on reviewing the Stan code.
+Stan translations were done by [Gianluca Rossi](https://github.com/IamGianluca). I want to thank John K. Kruschke for permitting to publish the Stan translated models and Bob Carpenter for his invaluable help on reviewing the Stan code.
 
 ## Contents of the book
 
